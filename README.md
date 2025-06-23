@@ -41,6 +41,7 @@ A collection of interactive React apps built using hooks, props, and Tailwind.
 
 - 💸 **[Investment Calculator](https://github.com/ASriVamsi11/Investment-Calculator)**  
   [Live Demo](https://investment-calculator-beige.vercel.app/)
+
 `React · Tailwind · useState/useRef · Portals`
 
 ---
@@ -50,14 +51,6 @@ A collection of interactive React apps built using hooks, props, and Tailwind.
 ![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASriVamsi11&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASriVamsi11&layout=compact&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ASriVamsi11&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Metrics](https://metrics.lecoq.io/ASriVamsi11?template=classic&isocalendar=1&languages=1&followup=1&config.timezone=America%2FDenver)
-
-[![Sri's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASriVamsi11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ASriVamsi11&color=blue)
 
 ---
 
